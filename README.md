@@ -38,5 +38,5 @@
 
 ### 🌐 Connect with Me
 - 🧑‍💻 GitHub: [@Resilience_1007](https://github.com/Resilience-1007)
-- 💬 Telegram: @Resilience _(optional — remove if you prefer)_
+- 💬 Telegram: @Resilience _1007
 - 🌍 Exploring the Web3 future, one smart contract at a time.
